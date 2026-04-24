@@ -36,6 +36,11 @@ hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "774b3afab92d453d928b18808eabb5416c84d9fdc4c3450e7becad6f702d04e5"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand-kots.pw.toml"
 hash = "29f5e4ae3b7bd01bf0b4cc010a1306de932358dda66a7679ab61797060eb580f"
 metafile = true
@@ -256,6 +261,11 @@ hash = "697e5d429406179e06f02a1f4fe9e337df56adf36cee6c35e9f08b6bcd0cade6"
 metafile = true
 
 [[files]]
+file = "mods/per-spatium.pw.toml"
+hash = "557c7470f6fa151d176e684154b22ea9a53b80f57070a8ae6eeccf771f336cab"
+metafile = true
+
+[[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
 hash = "c584c4fa729c9025b384e14716a4c5ec994ef332b85492f57a4e41a315c45c4e"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "21f98908d94bfdf05ebaedc2142a9edc82d1549c8fff601bca5fba3de28bc2c2"
 metafile = true
 
 [[files]]
