@@ -16,6 +16,11 @@ hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
 
 [[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "20cc6a015da793eb448c94a63f5637cad8b5c335da98ca35087db61ff113354b"
+metafile = true
+
+[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "9d8eb4b092f339a38abbf1d0e3533584b7a9017d1d9b3b58a861503db8ae9476"
 metafile = true
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -117,12 +122,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
+metafile = true
+
+[[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "a3fe16eb828f226871e3359b83c83eccbb5e58f02bf1ee1a4355b8038b38ed52"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "646f21ebe8f8b1bfc244588c0e50f6b077b1263ead20361a037b06f24d359441"
 metafile = true
 
 [[files]]
@@ -271,6 +286,26 @@ hash = "c584c4fa729c9025b384e14716a4c5ec994ef332b85492f57a4e41a315c45c4e"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-curios-integration.pw.toml"
+hash = "dd921ca691006e169455a925ed330319df5d19771863be0e9e80b5083d8f08d1"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "c741d0c6f48515c9f7b3224a25eebad7c07af365ed3785c03d05bb2a792a8584"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "d65a4722756f668b9572e91dda95879999a5ebac230d7ccd41d6e53a08ef86fc"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
@@ -358,4 +393,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-for-refined-storage.pw.toml"
+hash = "d889148caf26ebcbb78274d82511e00bdf84bed97606ec77625b97f29930e9ad"
 metafile = true
