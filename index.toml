@@ -394,8 +394,3 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
 metafile = true
-
-[[files]]
-file = "resourcepacks/create-style-for-refined-storage.pw.toml"
-hash = "d889148caf26ebcbb78274d82511e00bdf84bed97606ec77625b97f29930e9ad"
-metafile = true
