@@ -1,13 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cfadd.bat"
+hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
+
+[[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -18,6 +27,16 @@ metafile = true
 [[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "20cc6a015da793eb448c94a63f5637cad8b5c335da98ca35087db61ff113354b"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "c63ba9c5c8fa4404c2a549f7475b21e798bd42d100966e8f767727f440c343a0"
 metafile = true
 
 [[files]]
@@ -38,6 +57,16 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/chatnotify.pw.toml"
+hash = "aaee669b0ad4382abe51d713569f1edbed18dc16e45d1c8987f843ddb95fc4f1"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
 metafile = true
 
 [[files]]
@@ -103,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
 
 [[files]]
@@ -386,6 +420,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-aiots.pw.toml"
 hash = "0e185f70aaa171ba408208fee046c2f5bc5e5d6ee1c1609c906b26f4e4588253"
 metafile = true
@@ -394,3 +433,7 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
 metafile = true
+
+[[files]]
+file = "mradd.bat"
+hash = "87319088fd5d13cf9a1cbd74e078832a52ba47fe1f5a284026d84d4444ef202b"
