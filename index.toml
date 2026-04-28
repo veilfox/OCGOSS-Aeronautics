@@ -30,16 +30,6 @@ hash = "20cc6a015da793eb448c94a63f5637cad8b5c335da98ca35087db61ff113354b"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
-metafile = true
-
-[[files]]
-file = "mods/carryon-aeronautics-compat.pw.toml"
-hash = "c63ba9c5c8fa4404c2a549f7475b21e798bd42d100966e8f767727f440c343a0"
-metafile = true
-
-[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "9d8eb4b092f339a38abbf1d0e3533584b7a9017d1d9b3b58a861503db8ae9476"
 metafile = true
@@ -126,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -152,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "c72a84dd8e772274205f4ca1e45d8f0ff5548744b21a484b19fd46eeffaeee30"
 metafile = true
 
 [[files]]
