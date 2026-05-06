@@ -14,6 +14,21 @@ hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
 
 [[files]]
+file = "mods/advanced-rocketry-3-0.pw.toml"
+hash = "01509ec421e53d7cc0251f5473c4b26c456b7b685362cb418f85f71583d65bf9"
+metafile = true
+
+[[files]]
+file = "mods/advanced-rocketry-3.pw.toml"
+hash = "02f583979a4262c7b15e475cee1686d36c7499f0b9b3bd308f6429447615949a"
+metafile = true
+
+[[files]]
+file = "mods/ante.pw.toml"
+hash = "28a347f91bbad2721f385cbfa31c75ddcd35de3e5e226e79abc6b5dce25869cb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -24,8 +39,18 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/arlib.pw.toml"
+hash = "19a3cfaafd2121e42ac7498244d94987fc27a6bdce6a7bc862baadce90811822"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
 metafile = true
 
 [[files]]
@@ -37,6 +62,10 @@ metafile = true
 file = "mods/bclib-neoforge.pw.toml"
 hash = "39c7121302c1a21c0db0080a3abffd379af36930465fcbe4bd6682881c1d8203"
 metafile = true
+
+[[files]]
+file = "mods/blahaj-fabric-1.21.1-2.0.0.jar"
+hash = "5f202b796aa3dccaf012bc6cc5dac1887554a4cf3d813b7a1a4786051fa29f09"
 
 [[files]]
 file = "mods/cable-facades.pw.toml"
@@ -74,6 +103,11 @@ hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand-kots.pw.toml"
 hash = "29f5e4ae3b7bd01bf0b4cc010a1306de932358dda66a7679ab61797060eb580f"
 metafile = true
@@ -91,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-alcoholic-beverages.pw.toml"
+hash = "28f2a6058eea2927b1b7676d90b2d318e1ee9353bb5a46d9b0fb3e874be48e3d"
 metafile = true
 
 [[files]]
@@ -159,6 +198,16 @@ hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-dimensions-ar-edition.pw.toml"
+hash = "28392d58694db3adc558c5b7123276868dc1d5f91cfb381e09fa32e191e82dd1"
+metafile = true
+
+[[files]]
+file = "mods/dynamicdimension-ar-edition.pw.toml"
+hash = "be5c1aa68cc06be47e348618c373e8f13a22771d934de1d9400b1b57b81736f7"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -201,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
@@ -299,6 +353,11 @@ hash = "31c3ae5e39797bb91e2b17a13d0fbf2cf5b5d87f586441020b12f7fd6e3c607a"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "a9b5d9fb791c757bcc59b20d0cf3b1fc42f026feb7514c7ce59ee43726f3366d"
 metafile = true
@@ -306,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/nirvana.pw.toml"
+hash = "4f8b60eca8a7bd5bf1f154f4f3585ee44c8f6aa8b97b7e01ab865559c35ce363"
 metafile = true
 
 [[files]]
@@ -464,6 +528,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/tobaccocraft.pw.toml"
+hash = "8741106f6098d885667977141f24f26493cde0ba9f69c7cbc5533421ee66ed62"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
 metafile = true
@@ -476,6 +545,16 @@ metafile = true
 [[files]]
 file = "mods/vanilla-aiots.pw.toml"
 hash = "0e185f70aaa171ba408208fee046c2f5bc5e5d6ee1c1609c906b26f4e4588253"
+metafile = true
+
+[[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
 metafile = true
 
 [[files]]

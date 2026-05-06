@@ -1,0 +1,13 @@
+name = "DynamicDimension AR Edition"
+filename = "dynamicdimensions-neoforge-0.9.1+75e1622e-dirty.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b5400c30a95d67735eab8a028c85d5c0981459e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7707789
+project-id = 1469680
