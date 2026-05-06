@@ -54,8 +54,9 @@ hash = "39c7121302c1a21c0db0080a3abffd379af36930465fcbe4bd6682881c1d8203"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-fabric-1.21.1-2.0.0.jar"
-hash = "5f202b796aa3dccaf012bc6cc5dac1887554a4cf3d813b7a1a4786051fa29f09"
+file = "mods/blaha-replushed.pw.toml"
+hash = "16a6c53db7628f0de627be7f120683fb8db8b9eb2b074d56c78f1b273461d929"
+metafile = true
 
 [[files]]
 file = "mods/cable-facades.pw.toml"
