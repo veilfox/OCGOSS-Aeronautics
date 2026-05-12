@@ -10,6 +10,31 @@ hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
 
 [[files]]
+file = "mods/aether-emissivity.pw.toml"
+hash = "71b37e848b677dccc17c05a6a68a0a52f45d055a9f1e168d277946569bbb8a36"
+metafile = true
+
+[[files]]
+file = "mods/aether-enhanced-extinguishing.pw.toml"
+hash = "3ab0e784d15c52edda001697336bc3d7bceb1d016c89b166c77b10f6fb689737"
+metafile = true
+
+[[files]]
+file = "mods/aether-overworld-ores.pw.toml"
+hash = "7efb736e8b5c748792be489511746d7272efc4004b843314127555f4d5e3dcb8"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "68843d86fd6914e4d4766575fb3f63e37fe8b40153539f0c219439980d40fe07"
+metafile = true
+
+[[files]]
+file = "mods/aether-treasure-reforging.pw.toml"
+hash = "c7c9a31368adc4c4d6abfc647f07c1eb70fb6c2be31959b5ca88c109f891860b"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
