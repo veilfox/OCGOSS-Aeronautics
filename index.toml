@@ -305,6 +305,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
 metafile = true
@@ -402,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/nirvana.pw.toml"
 hash = "4f8b60eca8a7bd5bf1f154f4f3585ee44c8f6aa8b97b7e01ab865559c35ce363"
+metafile = true
+
+[[files]]
+file = "mods/northstar-redux.pw.toml"
+hash = "4d7e9989b35a90db762ee26254bd0b52bb28f0d959bd557ae4dc7a4dc1caa362"
 metafile = true
 
 [[files]]
