@@ -235,6 +235,11 @@ hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "1f8bf41d4500de0b9acb68034929a969e6f147f95e501b2a7596b16609258493"
+metafile = true
+
+[[files]]
 file = "mods/exposure-expanded.pw.toml"
 hash = "a3fe16eb828f226871e3359b83c83eccbb5e58f02bf1ee1a4355b8038b38ed52"
 metafile = true
