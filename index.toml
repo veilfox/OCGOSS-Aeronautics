@@ -5,6 +5,10 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "530a682ebe19b67020d516b7bf4d19c8727dd80f4c7f3081cda4a4f65a726dd0"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
