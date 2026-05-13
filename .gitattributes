@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.pw.toml text eol=lf 
+
+*.jar binary
+*.zip binary
